@@ -14,15 +14,15 @@ For each line of input, output one line containing n integers in non-descending 
 Sample Input and Output
 <b>I:</b> 3 1269 1160 1663
 <br><b>O:</b> 383 777 886
-<br>
+<br><br>
 <b>I:</b> 3 1 1 1
 <br><b>O:</b> Impossible
-<br>
+<br><br>
 <b>I:</b> 5 226 223 225 224 227 229 228 226 225 227
 <br><b>O:</b> 111 112 113 114 115
-<br>
+<br><br>
 <b>I:</b> 5 216 210 204 212 220 214 222 208 216 210
 <br><b>O:</b> 101 103 107 109 113
-<br>
+<br><br>
 <b>I:</b> 5 -1 0 -1 -2 1 0 -1 1 0 -1
 <br><b>O:</b> -1 -1 0 0 1
