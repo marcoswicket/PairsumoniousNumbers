@@ -1,4 +1,4 @@
-﻿
+<h1><b>Pairsumonous Numbers</b></h1>
 Any set of n integers form n(n − 1)/2 sums by adding every possible pair. Your task is to ﬁnd the n integers given the set of sums.
  
  
